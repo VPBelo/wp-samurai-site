@@ -332,7 +332,7 @@
                            <li id="menu-item-71" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-71"><a href="http://35.240.139.32/" aria-current="page" style="font-family: Montserrat; text-transform: none; width: 108px; height: 24px;">ABOUT US</a></li>
                            <li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="http://35.240.139.32/index.php/about/" style="font-family: Montserrat; text-transform: none; width: 108px; height: 24px;">SERVICES</a></li>
                            <li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="http://35.240.139.32/index.php/blog/" style="font-family: Montserrat; text-transform: none; width: 108px; height: 24px;">+00 0000 0000</a></li>
-                           <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="http://35.240.139.32/index.php/contact/" style="background-color: #ce0000; margin-right: -248px; margin-left: 25px; text-transform: unset; color: #f7f3f3; font-family: monospace;">Get Your Free Audit &#038; Strategy</a></li>
+                           <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="http://35.240.139.32/index.php/contact/" style="background-color: #ce0000; margin-right: -248px; margin-left: 68px; text-transform: unset; color: #f7f3f3; font-family: Montserrat; padding-right: 41px; padding-left: 33px;">Get Your Free Audit &#038; Strategy</a></li>
                            
                         </ul>
                      </nav>
@@ -349,9 +349,9 @@
                      <h2 class="hero-large-text" style="font-size: 100px; margin-left: 83px; font-family: Montserrat;"><b>REVENUE</b></h2>
                      <h2 class="hero-large-text" style="font-size: 100px; margin-left: 83px; font-family: Montserrat;"><b>& GROWTH</b></h2>
                      <br>
-                     <p class="hero-small-text" style="text-align: -webkit-left; font-style: normal; color: #000000; font-size: 25px; font-family: -webkit-pictograph; margin-left: 83px; font-family: Montserrat"> Let's face it, the only good traffic is site traffic.<br>The only good revenue is revenue in your <br> pocket. And the only good growth is..., ok, <br> pretty much all growth is good. <br> <br> We're here to get you more of thet good stuff.</p>
+                     <p class="hero-small-text" style="text-align: -webkit-left; font-style: normal; color: #000000; font-size: 25px; font-family: -webkit-pictograph; margin-left: 83px; font-family: Montserrat;"> Let's face it, the only good traffic is site traffic.<br>The only good revenue is revenue in your <br> pocket. And the only good growth is..., ok, <br> pretty much all growth is good. <br> <br> We're here to get you more of thet good stuff.</p>
                      <!-- <a  href="https://demos.famethemes.com/onepress/#services" class="btn btn-theme-primary btn-lg">Our Services</a> <a  href="https://demos.famethemes.com/onepress/#contact" class="btn btn-secondary-outline btn-lg">Get Started</a> -->
-                     <a  href="http://m.me/101766344531399" class="btn btn-theme-primary btn-lg" style="border-radius: 0px; background-color: #ce0000; margin-left: 83px; text-transform: unset; font-family: Montserrat;; color: #f7f5f5; font-size: 25px;">Start Your Growth Today</a>   <p style="font-size: 53px; margin-right: 558px; margin-top: -80px; color: #ce0000;"> <b> < </b> </p>
+                     <a  href="http://m.me/101766344531399" class="btn btn-theme-primary btn-lg" style="border-radius: 0px; background-color: #ce0000; margin-left: 83px; text-transform: unset; font-family: Montserrat; color: #f7f5f5; font-size: 25px;">Start Your Growth Today</a>   <p style="font-size: 53px; margin-right: 471px; margin-top: -80px; color: #ce0000;"> <b> < </b> </p>
                </div>
             </div>
          </div>
@@ -497,7 +497,7 @@
                            </div>
                         </div>
                         <br>
-                        <button class="btn btn-theme-primary btn-lg" style="background position: center;text-align: center ;margin-right: 250px; border-radius: 0px; background-color: #ce0000; text-transform: unset; font-family: Montserrat; font-size: 18px; padding: 11px 31px; padding: 12px 41px;">Let's Get Started</button>
+                        <button class="btn btn-theme-primary btn-lg" style="background position: center;text-align: center ;margin-right: 250px; border-radius: 0px; background-color: #ce0000; text-transform: unset; font-family: sans-serif; font-size: 14px; padding: 11px 31px;">Let's Get Started</button>
                      </div>
                   </div>
                </section>
@@ -655,7 +655,7 @@
                                  </div>
                                  <!-- <div class="wpforms-field wpforms-field-hp"><label for="wpforms-field_hp" class="wpforms-field-label">Phone</label><input type="text" name="wpforms[hp]" id="wpforms-field_hp" class="wpforms-field-medium"></div> -->
                                  <br>
-                                 <div class="wpforms-submit-container" ><input type="hidden" name="wpforms[id]" value="1431"><input type="hidden" name="wpforms[author]" value="1"><input type="hidden" name="wpforms[post_id]" value="4"><button type="submit" name="wpforms[submit]" class="wpforms-submit " id="wpforms-submit-1431" value="wpforms-submit" data-alt-text="Sending..." style="width: 19%; background-color: #ce0000; margin-left: 450px; text-transform: unset; font-family: Montserrat; font-size: 15px;">Let's Get Started</button></div>
+                                 <div class="wpforms-submit-container" ><input type="hidden" name="wpforms[id]" value="1431"><input type="hidden" name="wpforms[author]" value="1"><input type="hidden" name="wpforms[post_id]" value="4"><button type="submit" name="wpforms[submit]" class="wpforms-submit " id="wpforms-submit-1431" value="wpforms-submit" data-alt-text="Sending..." style="width: 20%; background-color: #ce0000; margin-left: 450px; text-transform: unset; font-family: sans-serif;">Let's Get Started</button></div>
                               </form>
                            </div>
                         </div>
