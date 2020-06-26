@@ -90,7 +90,7 @@
             font-variant-caps: normal;
          }
          .hero {
-            background: url(http://localhost:81/wordpress-samurai-website/wp-content/uploads/2020/06/man6_new.jpg);
+            background: url(http://marketingsamurais.tk/wp-content/uploads/2020/06/early-morning-coffee-by-the-lake_t20_dpeYNo_Med.png);
             background-repeat: no-repeat;
             /* height: 5000px;  */
             background-position: center; /* Center the image */
@@ -196,9 +196,9 @@
       </style>
       <style id='onepress-style-inline-css' type='text/css'> 
          .site-logo-div img {
-            height: 54px;
+            height: 46px;
             width: initial;
-            margin-left: -39px;
+            margin-left: -21px;
          }
          #main 
          .video-section section
@@ -322,7 +322,7 @@
                <div class="container">
                   <div class="site-branding">
                      <div class="site-brand-inner has-logo-img no-desc">
-                        <div class="site-logo-div"><a href="http://35.240.139.32/" class="custom-logo-link  no-t-logo" rel="home" itemprop="url"><img width="1542" height="212" src="http://35.240.139.32/wp-content/uploads/2020/06/MB_LOGOtype_CLR.png" class="custom-logo" alt="Marketing Samurai Site" itemprop="logo" srcset="http://35.240.139.32/wp-content/uploads/2020/06/MB_LOGOtype_CLR.png 1542w, http://35.240.139.32/wp-content/uploads/2020/06/MB_LOGOtype_CLR-300x41.png 300w, http://35.240.139.32/wp-content/uploads/2020/06/MB_LOGOtype_CLR-1024x141.png 1024w, http://35.240.139.32/wp-content/uploads/2020/06/MB_LOGOtype_CLR-768x106.png 768w, http://35.240.139.32/wp-content/uploads/2020/06/MB_LOGOtype_CLR-1536x211.png 1536w, http://35.240.139.32/wp-content/uploads/2020/06/MB_LOGOtype_CLR-1200x165.png 1200w" sizes="(max-width: 1542px) 100vw, 1542px" style="height: 54px;/* width: 100%; *//* margin-left: -8px; */" /></a></div>
+                        <div class="site-logo-div"><a href="http://35.240.139.32/" class="custom-logo-link  no-t-logo" rel="home" itemprop="url"><img width="1542" height="212" src="http://35.240.139.32/wp-content/uploads/2020/06/MB_LOGOtype_CLR.png" class="custom-logo" alt="Marketing Samurai Site" itemprop="logo" srcset="http://35.240.139.32/wp-content/uploads/2020/06/MB_LOGOtype_CLR.png 1542w, http://35.240.139.32/wp-content/uploads/2020/06/MB_LOGOtype_CLR-300x41.png 300w, http://35.240.139.32/wp-content/uploads/2020/06/MB_LOGOtype_CLR-1024x141.png 1024w, http://35.240.139.32/wp-content/uploads/2020/06/MB_LOGOtype_CLR-768x106.png 768w, http://35.240.139.32/wp-content/uploads/2020/06/MB_LOGOtype_CLR-1536x211.png 1536w, http://35.240.139.32/wp-content/uploads/2020/06/MB_LOGOtype_CLR-1200x165.png 1200w" sizes="(max-width: 1542px) 100vw, 1542px" style="max-width: 100%;/* margin-left: -8px; */" /></a></div>
                      </div>
                   </div>
                   <div class="header-right-wrapper">
@@ -341,17 +341,19 @@
                </div>
             </header>
             <!-- #masthead -->
-            <div class="bg" style="padding-top: 12%; padding-bottom: 0%; margin-top: -1px;">
+            <div class="bg" style="padding-top: 12%; padding-bottom: 0%; margin-top: 0px;">
                <div class="hero__content hero-content-style1" style="text-align: -webkit-left; margin-top: -130px;">
                      <!-- <h2 class="hero-large-text">We are <span class="js-rotating">OnePress | One Page | Responsive | Perfection</span></h2> -->
-                     <h2 class="hero-large-text" style="font-size: 100px; margin-left: 83px; font-family: Montserrat;"><b>GET MORE</b></h2>
-                     <h2 class="hero-large-text" style="font-size: 100px; margin-left: 83px; font-family: Montserrat;"><b>TRAFFIC,</b></h2>
-                     <h2 class="hero-large-text" style="font-size: 100px; margin-left: 83px; font-family: Montserrat;"><b>REVENUE</b></h2>
-                     <h2 class="hero-large-text" style="font-size: 100px; margin-left: 83px; font-family: Montserrat;"><b>& GROWTH</b></h2>
+                     <h2 class="hero-large-text" style="font-size: 79px; margin-left: 83px; font-family: Montserrat,Bold;">GET MORE</h2>
+                     <h2 class="hero-large-text" style="font-size: 79px;  margin-left: 83px; font-family: Montserrat,Bold;">TRAFFIC,</h2>
+                     <h2 class="hero-large-text" style="font-size: 79px;  margin-left: 83px; font-family: Montserrat,Bold;">REVENUE</h2>
+                     <h2 class="hero-large-text" style="font-size: 79px;  margin-left: 83px; font-family: Montserrat,Bold;">& GROWTH</h2>
                      <br>
-                     <p class="hero-small-text" style="text-align: -webkit-left; font-style: normal; color: #000000; font-size: 25px; font-family: -webkit-pictograph; margin-left: 83px; font-family: Montserrat;"> Let's face it, the only good traffic is site traffic.<br>The only good revenue is revenue in your <br> pocket. And the only good growth is..., ok, <br> pretty much all growth is good. <br> <br> We're here to get you more of thet good stuff.</p>
+                     <p class="hero-small-text" style="text-align: -webkit-left; font-style: normal; color: #000000; font-size: 20px; font-family: -webkit-pictograph; margin-left: 83px; font-family: Montserrat,Regular;"> Let's face it, the only good traffic is site traffic.<br>The only good revenue is revenue in your <br> pocket. And the only good growth is..., ok, <br> pretty much all growth is good.</p>
+                     <br>
+                     <p style="text-align: -webkit-left; font-style: normal; color: #000000; font-size: 25px; font-family: -webkit-pictograph; margin-left: 83px; font-family: Montserrat,Medium;">We're here to get you more of thet good stuff.</p>
                      <!-- <a  href="https://demos.famethemes.com/onepress/#services" class="btn btn-theme-primary btn-lg">Our Services</a> <a  href="https://demos.famethemes.com/onepress/#contact" class="btn btn-secondary-outline btn-lg">Get Started</a> -->
-                     <a  href="http://m.me/101766344531399" class="btn btn-theme-primary btn-lg" style="border-radius: 0px; background-color: #ce0000; margin-left: 83px; text-transform: unset; font-family: Montserrat; color: #f7f5f5; font-size: 25px;">Start Your Growth Today</a>   <p style="font-size: 53px; margin-right: 471px; margin-top: -80px; color: #ce0000;"> <b> < </b> </p>
+                     <a  href="http://m.me/101766344531399" class="btn btn-theme-primary btn-lg" style="border-radius: 0px; background-color: #ce0000; margin-left: 83px; text-transform: unset; font-family: Montserrat; color: #f7f5f5; font-size: 25px; width: 430px;">Start Your Growth Today</a>   <p style="font-size: 53px; margin-right: 273px; margin-top: -80px; color: #ce0000;"> <b> < </b> </p>
                </div>
             </div>
          </div>
@@ -361,7 +363,7 @@
                   <div class="container">
                      <div class="section-title-area">
                         <!-- <h5 class="section-subtitle">Why choose Us</h5> -->
-                        <h2 class="section-title" style="font-size: 39px;text-transform: unset; font-family: Montserrat; /* width: 1488px; */height: 61px; color: black;"><b>Here Are Some of The Businesses We Have Worked With</b></h2>
+                        <h2 class="section-title" style="font-size: 39px;text-transform: unset; font-family: Montserrat,Bold; height: 61px; color: black; letter-spacing: -0.5px;"><b>Here Are Some of The Businesses We Have Worked With</b></h2>
                      </div>
                      <div class="section-content" style="background position: center;text-align: center;margin-right: -273px;">
                      <div class="row">
@@ -416,7 +418,7 @@
                   <!-- <div class="parallax-bg"><img src="https://demos.famethemes.com/onepress/wp-content/uploads/sites/17/2016/02/blog1.jpg" alt=""></div> -->
                   <section id="videolightbox"         class="section-videolightbox section-padding section-padding-larger section-inverse onepage-section">
                      <div class="container">
-                     <h2 class="section-title" style="font-size: 39px; text-transform: unset; font-family: Montserrat; color: black; margin-top: -62px;"><b>Hear Some Words From Our Customers</b></h2>
+                     <h2 class="section-title" style="font-size: 39px; text-transform: unset; font-family:  Montserrat,Bold; color: black; margin-top: -62px;"><b>Hear Some Words From Our Customers</b></h2>
                         <br>
                         <div id="myCarousel" class="carousel slide" data-ride="carousel">
                               <!-- Indicators -->
@@ -456,7 +458,7 @@
                   <div class="container">
                      <div class="section-title-area">
                         <!-- <h5 class="section-subtitle">Why choose Us</h5> -->
-                        <h2 class="section-title" style="font-size: 39px; text-transform: unset; font-family: Montserrat; color: black;"><b>What We Do</b></h2>
+                        <h2 class="section-title" style="font-size: 39px; text-transform: unset; font-family:  Montserrat,Bold; color: black;"><b>What We Do</b></h2>
                      </div>
                      <div class="section-content" style="background position: center;text-align: center;margin-right: -273px;">
                         <div class="row">
@@ -505,7 +507,7 @@
                   <div class="container">
                      <div class="section-title-area">
                         <!-- <h5 class="section-subtitle">Section subtitle</h5> -->
-                        <h2 class="section-title" style="text-transform: unset; font-size: 39px; font-family: Montserrat;">FAQs</h2>
+                        <h2 class="section-title" style="text-transform: unset; font-size: 39px; font-family:  Montserrat,Bold;">FAQs</h2>
                      </div>
                      <div class="panel-group" id="accordion">
                            <div class="panel panel-default">

@@ -272,7 +272,7 @@ textarea {
 
 h1, h2, h3, h4, h5, h6 {
 	clear: both;
-	font-family: "Source Sans Pro", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;
+	font-family: "Source Sans Pro", "Lucida Grande", "Montserrat", "Lucida Sans", Geneva, Arial, sans-serif;
 }
 
 p {
@@ -384,10 +384,9 @@ dd {
 }
 
 img {
-	height: auto;
-	/* Make sure images are scaled correctly. */
-	max-width: 100%;
-	/* Adhere to container width. */
+    height: 200px;
+    max-width: 200px;
+    opacity: 1;
 }
 
 figure {
@@ -923,26 +922,26 @@ a {
   }
 
   .bg {
-	background: url(http://35.240.139.32/wp-content/uploads/2020/06/man6_new.jpg);
+	background: url(http://marketingsamurais.tk/wp-content/uploads/2020/06/early-morning-coffee-by-the-lake_t20_dpeYNo_Med.png);
 	background-repeat: no-repeat;
-    width: 100%;
-    height: 800px;
+	width: 100%;
+    height: 686px;
     background-position: center;
     background-attachment: initial;
-    background-size: cover;
+    background-size: contain;
 	}
 
 	.main-navigation ul {
 		margin: 0px;
 		padding-left: 0;
-		/* margin-left: -600px; */
-		margin-right: 147px;
+		margin-left: -600px;
+		margin-right: 143px;
 	}
 
 	.main-navigation a {
 		display: block;
 		/* text-decoration: none; */
-		font-family: Montserrat;
+		font-family: Montserrat;;
 		text-transform: none;
 	}
 
@@ -962,6 +961,25 @@ a {
 
 	::placeholder {
 		color: #8298A8;
-		font-family: Montserrat;
+		font-family: Montserrat;;
 		font-size: 15px;
+	}
+
+	/* .onepress-menu a {
+    color: #333;
+    font-family: "Raleway",Helvetica,Arial,sans-serif;
+    padding-left: 63px;
+    padding-right: 0px;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-decoration: none;
+    zoom: 1;
+    letter-spacing: 1px;
+	} */
+
+	/* @media screen and (min-width: 940px) */
+	.hero-content-style1 h2 {
+		font-size: 75px;
+		letter-spacing: 0px;
 	}
